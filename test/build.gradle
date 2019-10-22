@@ -17,6 +17,7 @@
  * under the License.
  */
 
+
 subprojects {
   // fixtures is just intermediate parent project
   if (name == 'fixtures') return
